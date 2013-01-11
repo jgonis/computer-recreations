@@ -1,0 +1,14 @@
+{
+	"category" : "WatorWorld-Backend",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "WatorWorld",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }
