@@ -1,0 +1,15 @@
+{
+	"category" : "WatorWorld-Morphic",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"cells",
+		"cellSize" ],
+	"name" : "WatorWorldMorph",
+	"pools" : [
+		 ],
+	"super" : "Morph",
+	"type" : "normal" }

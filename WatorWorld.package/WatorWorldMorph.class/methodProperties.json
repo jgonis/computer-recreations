@@ -1,0 +1,10 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"drawOn:" : "JMG 1/13/2013 15:07",
+		"fillCell:color:on:" : "JMG 1/13/2013 15:08",
+		"initialize" : "JMG 1/13/2013 15:02",
+		"simulateWorld" : "JMG 1/13/2013 14:54",
+		"step" : "JMG 1/13/2013 14:54",
+		"stepTime" : "JMG 1/13/2013 15:09" } }
