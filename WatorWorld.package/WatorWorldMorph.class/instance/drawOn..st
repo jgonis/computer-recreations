@@ -1,10 +1,9 @@
 as yet unclassified
 drawOn: aCanvas 
-	| cellX cellY |
 	super drawOn: aCanvas.
-	cellX := (0 to: cells x - 1) atRandom.
-	cellY := (0 to: cells y - 1) atRandom.
-	self
-		fillCell: cellX @ cellY
-		color: Color red
-		on: aCanvas
+	(1 to: watorWorld extent x)
+		do: [:cellX | (1 to: watorWorld extent y)
+				do: [:cellY | self
+						fillCell: (cellX - 1) @ (cellY - 1)
+						color: (watorWorld colorAt: cellX @ cellY)
+						on: aCanvas]]

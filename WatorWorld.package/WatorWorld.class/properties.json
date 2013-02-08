@@ -6,7 +6,9 @@
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		 ],
+		"extent",
+		"world",
+		"direction" ],
 	"name" : "WatorWorld",
 	"pools" : [
 		 ],

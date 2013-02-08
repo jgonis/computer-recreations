@@ -2,9 +2,9 @@
 	"class" : {
 		 },
 	"instance" : {
-		"drawOn:" : "JMG 1/13/2013 15:07",
+		"drawOn:" : "JMG 2/8/2013 11:37",
 		"fillCell:color:on:" : "JMG 1/13/2013 15:08",
-		"initialize" : "JMG 1/13/2013 15:02",
-		"simulateWorld" : "JMG 1/13/2013 14:54",
+		"initialize" : "JMG 2/8/2013 11:19",
+		"simulateWorld" : "JMG 2/8/2013 11:17",
 		"step" : "JMG 1/13/2013 14:54",
 		"stepTime" : "JMG 1/13/2013 15:09" } }

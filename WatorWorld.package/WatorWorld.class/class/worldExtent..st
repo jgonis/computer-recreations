@@ -1,2 +1,3 @@
 as yet unclassified
-worldExtent: anExtent
+worldExtent: anExtent 
+	^ (self new extent: anExtent)

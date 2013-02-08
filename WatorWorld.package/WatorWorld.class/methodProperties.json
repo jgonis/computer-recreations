@@ -1,5 +1,14 @@
 {
 	"class" : {
-		"worldExtent:" : "JMG 1/11/2013 14:06" },
+		"empty" : "JMG 2/8/2013 11:31",
+		"fish" : "JMG 2/8/2013 11:31",
+		"shark" : "JMG 2/8/2013 11:30",
+		"worldExtent:" : "JMG 2/8/2013 11:27" },
 	"instance" : {
-		 } }
+		"colorAt:" : "JMG 2/8/2013 11:37",
+		"direction" : "JMG 2/8/2013 12:07",
+		"extent" : "JMG 2/8/2013 11:32",
+		"extent:" : "JMG 2/8/2013 11:45",
+		"step" : "JMG 2/8/2013 11:52",
+		"stepFishAt:with:" : "JMG 2/8/2013 11:53",
+		"stepSharkAt:with:" : "JMG 2/8/2013 11:53" } }
